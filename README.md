@@ -23,3 +23,11 @@ I'm an experienced web developer with a strong focus on frontend development and
 
 ### 🌟 Ready for New Challenges
 I thrive in fast-paced environments and am eager to take on new challenges associated with developing and optimizing user interfaces. I am committed to delivering high-quality solutions and contributing effectively to any development team.
+
+## 📈 GitHub Analytics
+
+### GitHub Stats
+![Shoxruh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shox404&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true&bg_color=ffffff&text_color=333333&title_color=007bff)
+
+### Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shox404&layout=compact&hide_title=true&hide_border=true&bg_color=ffffff&text_color=333333&title_color=007bff)
