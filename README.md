@@ -27,7 +27,7 @@ I thrive in fast-paced environments and am eager to take on new challenges assoc
 ## 📈 GitHub Analytics
 
 ### GitHub Stats
-![Shoxruh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shox404&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true&bg_color=333333&text_color=ffffff&title_color=00aaff)
+![Shoxruh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shox404&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true&bg_color=111111&text_color=ffffff&title_color=00aaff)
 
 ### Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shox404&layout=compact&hide_title=true&hide_border=true&bg_color=333333&text_color=ffffff&title_color=00aaff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shox404&layout=compact&hide_title=true&hide_border=true&bg_color=111111&text_color=ffffff&title_color=00aaff)
