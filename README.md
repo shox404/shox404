@@ -31,3 +31,11 @@ I thrive in fast-paced environments and am eager to take on new challenges assoc
 
 ### Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shox404&layout=compact&hide_title=true&hide_border=true&bg_color=ffffff&text_color=333333&title_color=007bff)
+
+## 🌐 Projects
+Here are a few of my key JavaScript projects:
+- **[Project 1](https://github.com/shox404/project1)**: Description of the project, highlighting your JavaScript skills.
+- **[Project 2](https://github.com/shox404/project2)**: Description of the project, emphasizing your use of React and other JavaScript technologies.
+
+Feel free to explore my repositories for more details on my work and contributions!
+
