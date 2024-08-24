@@ -14,6 +14,20 @@ I'm an experienced web developer with a strong focus on frontend development and
 - **Technical Proficiency**:
   - **Problem Solving**: Adept at analyzing technical data, identifying issues, and implementing solutions.
   - **Performance Optimization**: Focused on enhancing application performance and user experience.
+  - 
+### 🛠️ Technologies & Skills, Front-End
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; justify-content: center;">
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" style="height: 48px;" title="HTML"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" style="height: 48px;" title="CSS"/>
+  <img src="https://img.icons8.com/color/48/000000/sass.png" alt="SCSS" style="height: 48px;" title="SCSS"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" style="height: 48px;" title="JavaScript"/>
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React.js" style="height: 48px;" title="React.js"/>
+  <img src="https://img.shields.io/badge/Redux-Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux Toolkit" style="height: 48px;" title="Redux Toolkit"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" style="height: 48px;" title="Next.js"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" style="height: 48px;" title="TypeScript"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" style="height: 48px;" title="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/Ant_Design-0170FE?style=flat-square&logo=ant-design&logoColor=white" alt="Ant Design" style="height: 48px;" title="Ant Design"/>
+  <img src="https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=material-ui&logoColor=white" alt="Material-UI (MUI)" style="height: 48px;" title="Material-UI (MUI)"/>
 
 ### 🛠️ Responsibilities & Experience
 - **Web Application Development**: Designing, developing, and maintaining interactive web applications.
