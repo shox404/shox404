@@ -17,7 +17,7 @@ I'm an experienced web developer with a strong focus on frontend development and
 - **Technical Proficiency**:
   - **Problem Solving**: Adept at analyzing technical data, identifying issues, and implementing solutions.
   - **Performance Optimization**: Focused on enhancing application performance and user experience.
-  - 
+    
 ### 🛠️ Technologies & Skills, Front-End
 <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; justify-content: center;">
   <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" style="height: 48px;" title="HTML"/>
