@@ -1,2 +1,2 @@
 key="secret"
-other="value"
+other="1"
