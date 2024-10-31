@@ -1,10 +1,10 @@
 ### My Portfolio
 Check out my portfolio at [Website](https://shx404.vercel.app/) to see my projects, skills, and more.
 
-<img align="center" src="https://raw.githubusercontent.com/plexpt/plexpt/snake/github-snake.svg">
-
 ### 👨‍💻 About Me
 I'm an experienced web developer with a strong focus on frontend development and a keen ability to solve complex problems. Holding a Junior Developer degree, I bring hands-on experience in building web applications and a comprehensive understanding of modern web technologies.
+
+<img align="center" src="https://raw.githubusercontent.com/plexpt/plexpt/snake/github-snake.svg">
     
 ### 🛠️ Technologies & Skills, Front-End
 <div align="center">
