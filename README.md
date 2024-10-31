@@ -34,10 +34,7 @@ I'm an experienced web developer with a strong focus on frontend development and
 ### 🌟 Ready for New Challenges
 I thrive in fast-paced environments and am eager to take on new challenges associated with developing and optimizing user interfaces. I am committed to delivering high-quality solutions and contributing effectively to any development team.
 
-### 📊 GitHub Stats:
-![Shoxruh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shox404&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![Shoxruh's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=shox404&theme=tokyonight&hide_border=true)<br/>
-![Shoxruh's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shox404&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+<img align="center" src="https://raw.githubusercontent.com/plexpt/plexpt/snake/github-snake.svg">
 
 ---
 [![](https://visitcount.itsvg.in/api?id=shox404&icon=0&color=0)](https://visitcount.itsvg.in)
