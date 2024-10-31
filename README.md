@@ -3,20 +3,6 @@ Check out my portfolio at [Website](https://shx404.vercel.app/) to see my projec
 
 ### 👨‍💻 About Me
 I'm an experienced web developer with a strong focus on frontend development and a keen ability to solve complex problems. Holding a Junior Developer degree, I bring hands-on experience in building web applications and a comprehensive understanding of modern web technologies.
-
-### 📚 Skills & Expertise
-- **Frontend Development**: Proficient in crafting dynamic and responsive user interfaces.
-- **Languages & Technologies**:
-  - **HTML**: Advanced
-  - **CSS/SCSS**: Advanced, including preprocessor use for scalable and maintainable styling.
-  - **JavaScript**: Strong command, including ES6+ features.
-  - **React.js**: Experience with building components and managing state using Redux Toolkit.
-  - **Next.js**: Skilled in server-side rendering and static site generation with TypeScript.
-  - **TypeScript**: Leveraging type safety and enhancing code quality.
-- **Technical Proficiency**:
-  - **Problem Solving**: Adept at analyzing technical data, identifying issues, and implementing solutions.
-  - **Performance Optimization**: Focused on enhancing application performance and user experience.
-
     
 ### 🛠️ Technologies & Skills, Front-End
 <div align="center">
