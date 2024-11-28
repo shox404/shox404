@@ -8,7 +8,9 @@ I'm an experienced web developer with a strong focus on frontend development and
     
 ### 🛠️ Technologies & Skills, Front-End
   
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,nodejs,git,github,redux" alt="Tech Stack Icons" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,nodejs,figma,vercel" alt="Tech Stack Icons" />
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,redux,jquery,tailwind,bootstrap,vscode,materialui" alt="Tech Stack Icons" />
 
 ### 🌟 Ready for New Challenges
 I thrive in fast-paced environments and am eager to take on new challenges associated with developing and optimizing user interfaces. I am committed to delivering high-quality solutions and contributing effectively to any development team.
